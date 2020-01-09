@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prosegur-gcp-test",
+  "private_key_id": "67f933106b99f2f33dfa82e4d925fda50fd02775",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDq76SpZ1nr9729\nSviA0iibarCtp7+vl7gCRnUxDosFzJ7HTD8k/VF9j0BQ2tY/gX/NdGiCuzQruzHX\n0g1NLNd8RjVeuvzHbLKvtDhjmApo/xSO2RNEzTFBcxfCb8+3XIOFLlvHAJhuifVj\n6+17avRg/wcECg5IxVFRsNgOGXhx/uXtt/CK05U48ay3s8hSzAw0rz2ImJQ24xEq\n51/CQFRdyf+YEHIPY0YJQDaugaO1UdSTQn2W9WTjk9aHn0Oxci886NMFVz2SpnR1\nHnhBBOxMxVQm8yE24yAh+T0ZLiwkJQ+AeL/I9YNruDkiJxidcSwV30WIrEvL6XD4\nD3fkepCrAgMBAAECggEAPek6HNRaC4eFTllv5E69mbtDZPfkWUsjmCHmJy/cbgJO\nw1lx+HbzHyH9gnEw7ZpcShHHqs/Xf0C88VFu5OwQuzSrQtQG4izgZ9IX3BMIh0PV\nMJG+9K4YMVW5qKkbdYghNpsRX39mLBcZ/iOBuTjlvpvmRue5fO7Wr67pOMn4hh1z\nR8dEYmEQKH/PzojXAeHrd0CjaqvLQrfXLPhnlAkAE1b8ekPFp9jCoF+s2Xn+6e8h\n4p4pQK/ACERrvYs3lphu5dFjWUYRJPXK4eD8kf9nHGAYhQkiP0ArO+c5D1SOCeOI\n5TEfMUIidKiJ+unbNRveuroFSyPi1RZf0FvgvsBbeQKBgQD5D2TAuCiEHb0BktXp\nOHODFks8rJ+b5c/+sjpvP/KA7joydl5TlFQpiV0VF/TUHxo+vb/7cXNUkHNOvisP\nEXQsfJ+rC3El+eGwjJN9oudYNqUYjqWLYoRnllQqGCBC43KoAyoYWYmQOCNA55Wx\nZuBSWkAEjfSWeUIIdTDkMpgbIwKBgQDxe3/iDzptM07uJ0ukcA+KzG7UOur8S+ZY\nbmE7ALDbQ8JKgCL3rCOcpGB8VuUmZB9LCoI02NYTu9ZRss4Y9AnCD1rJHTztIs7z\nc1MoDN2fiHW0HHCqwuUdDxaNTr9I4GIzTUfUbLn5lBRZRoKjQQtk9MaWFUFmMsJf\naA1Gb4cw2QKBgHQePDAp7CHkp4lDR14rxpc4Xq2UIfoSRE4QFHRn0Q1RhGqgi0vW\nXQLcmzxJZgk70wWrfAWkGEw16Lyupu6oiYxwMhUSCZfWD+Y7NEygFdIn8AMqBn6c\n2PRevzC8/NWSq5MvnoGpxRwrQCxzjHQgbbeXgj9dW8qIEERXNws9l3MXAoGBAIJz\nwSYSK/IKIb2uJML0drD4t3aXTZJ2Pj3Pg18ohGIvPKqahkleCO76LdV969TNico0\nJxr9eMi4VJNWENiSHSNkwBqdXOiOQVZrGqUsLh2czlk6c/MLzlHgcMJtpBBuhx5H\nxWIQSnd1c3i3CqO+47TqNs2lNetLyI1Z3LIMVfAhAoGAPwnjMYudiUHrBL4dA695\n81kZHdMmFCuVpjAEBPDU8wAn12nh2Jsp9WCvZ7dzh0WtX7+qJSOBopU999ro4cI7\nP4uGR/HuqpO8Sv4I8NU9PhsrZhaW4EbWQvWp8AQi17BfGlVAZZEmBP83UJnxPuu1\nYuvUAsxgybR7fV1QkhSnP7I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fernando@prosegur-gcp-test.iam.gserviceaccount.com",
+  "client_id": "117050917196253253149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fernando%40prosegur-gcp-test.iam.gserviceaccount.com"
+}
